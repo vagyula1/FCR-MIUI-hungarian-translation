@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="transformation_entries">
+        <item>Klasszikus</item>
+        <item>Klasszikus (nincs átfedés)</item>
+        <item>Átkeverés</item>
+        <item>Lezuhanás</item>
+        <item>Oldalról</item>
+        <item>Kártyalapok</item>
+        <item>Forgatás</item>
+        <item>3D Kocka</item>
+    </string-array>
+    <string-array name="wallpaper_scroll_entries">
+        <item>Téma szerint</item>
+        <item>Középre</item>
+        <item>Balra</item>
+        <item>Jobbra</item>
+    </string-array>
+    <string-array name="cell_layout_size_entries">
+        <item>4x4</item>
+        <item>4x5</item>
+    </string-array>
+    <string-array name="gadget_weather_theme_type_entries">
+        <item>Alapértelmezett</item>
+        <item>Klasszik</item>
+    </string-array>
+</resources>

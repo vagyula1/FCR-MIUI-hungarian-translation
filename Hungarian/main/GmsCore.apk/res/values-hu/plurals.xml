@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="plus_num_minutes_ago">
+        <item quantity="other">%d perc</item>
+        <item quantity="one">%d perc</item>
+    </plurals>
+    <plurals name="plus_num_hours_ago">
+        <item quantity="other">%d óra</item>
+        <item quantity="one">%d óra</item>
+    </plurals>
+    <plurals name="plus_num_days_ago">
+        <item quantity="other">%d nap</item>
+        <item quantity="one">%d nap</item>
+    </plurals>
+    <plurals name="games_select_players_current_count_format">
+        <item quantity="other">%1$d játékos</item>
+        <item quantity="one">Játékosok</item>
+    </plurals>
+    <plurals name="games_select_players_slots_remaining_format">
+        <item quantity="other">Hívjon meg akár még %1$d játékost</item>
+        <item quantity="one">Hívjon meg akár még %1$d játékost</item>
+    </plurals>
+    <plurals name="games_notification_new_match_activity">
+        <item quantity="other">%1$d új játékmeghívó</item>
+        <item quantity="one">%1$d új játékmeghívó</item>
+    </plurals>
+    <plurals name="games_notification_new_player_text">
+        <item quantity="other">Meghívók megtekintése</item>
+        <item quantity="one">Meghívó megtekintése</item>
+    </plurals>
+    <plurals name="games_leaderboard_player_count_format">
+        <item quantity="other">%1$s játékos</item>
+        <item quantity="one">%1$s játékos</item>
+    </plurals>
+    <plurals name="games_dest_match_inbox_header_invitations">
+        <item quantity="other">Meghívók</item>
+        <item quantity="one">Meghívó</item>
+    </plurals>
+</resources>

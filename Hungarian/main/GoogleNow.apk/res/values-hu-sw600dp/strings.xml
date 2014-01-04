@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="corpus_name_summons">Táblagép</string>
+    <string name="search_sources">Keresés a táblagépen</string>
+    <string name="search_phone_or_tablet">Keresés a táblagépen</string>
+    <string name="no_summons_found">"Nincs találat
+a táblagépén."</string>
+    <string name="icing_manage_storage_summary">Az alkalmazások számára elérhető keresőmotorral gyorsítjuk meg táblagépén a keresést.</string>
+</resources>
