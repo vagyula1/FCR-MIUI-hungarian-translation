@@ -3,5 +3,5 @@
 	<string name="power_settings_numbers">Százalék</string>
     <string name="applications_backup">Mentés</string>
     <string name="wsm">WSM eszközök</string>
-</resources>
+    <string name="device_miui_version">FCR MIUI verzió:</string>
 </resources>
